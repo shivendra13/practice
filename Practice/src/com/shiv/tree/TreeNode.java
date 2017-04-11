@@ -1,4 +1,4 @@
-package com.shiv.hackerRank;
+package com.shiv.tree;
 
 public class TreeNode {
 	int val;

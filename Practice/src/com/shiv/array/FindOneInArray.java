@@ -1,4 +1,4 @@
-package com.shiv.hackerRank;
+package com.shiv.array;
 
 import java.util.ArrayList;
 import java.util.List;

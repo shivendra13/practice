@@ -1,4 +1,4 @@
-package com.shiv.hackerRank;
+package com.shiv.algo;
 
 public class KMPAlgorithm {
 
